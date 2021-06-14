@@ -2,7 +2,7 @@
 
 ## About the app
 
-> This application is developed to sending the notification periodically using android's WorkManager. Irrespective of the state (open / closed) the application sends a notification to the user. Every 16th minute, user will get a notification
+> This application is developed to send a notification periodically using android's WorkManager. Irrespective of the state (open / closed) the application sends a notification to the user. Every 16th minute, user will get a notification
 
 ## Dependencies used in app
 
